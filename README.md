@@ -113,19 +113,6 @@ Random Forest helped identify key drivers of default:
 
 ---
 
-## 📂 Project Structure
-
-```
-loan-default-prediction/
-│
-├── data/                # Dataset (if included)
-├── notebook.ipynb      # Jupyter Notebook
-├── model.py            # (Optional) Model script
-├── README.md           # Project documentation
-```
-
----
-
 ## 🎤 Conclusion
 
 This project demonstrates a complete ML workflow:
